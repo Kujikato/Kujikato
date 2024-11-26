@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://asset.cloudinary.com/dahdz6ugb/f7c11495cd35a2a143655e76e45f1400" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Kujikato. Aspiring Red Team Cybersecurity Specialist | Exploring Offensive Security</div>  
   
 
@@ -39,17 +34,6 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
