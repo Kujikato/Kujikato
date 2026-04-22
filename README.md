@@ -34,7 +34,9 @@
 
 ## 🎓 Certifications:
 
-![SEC0](SEC0.png)  ![SEC0](SEC101.png)  ![eJPT](eJPT.png)   ![ICCA](ICCA.png)
+![eJPT](eJPT.png)  ![ICCA](ICCA.png)  ![SEC0](SEC0.png)  ![SEC0](SEC101.png)
+
+
 
 ## 🔎 Find Me:
 [![HTB](https://img.shields.io/badge/HTB-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1643736?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
