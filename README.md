@@ -19,20 +19,31 @@
 |---|---|
 | **Location** | Spain |
 | **Role** | Security Operations Analyst |
-| **Studying** | `THM SAL1` *(in progress)* · `THM PT1` *(in progress)* |
+| **Studying** | `THM SAL1` *(in progress 🔄)* · `THM PT1` *(in progress 🔄)* |
 | **Next up** | Offensive security — attack path design and adversary simulation |
 
-## Certifications
+## 🎓 Certifications:
 
-| Certification | Issuer | Status |
-|---|---|:--:|
-| eJPT — Junior Penetration Tester | INE Security | ✅ |
-| ICCA — Certified Cloud Associate | INE Security | ✅ |
-| ISO/IEC 27001:2022 Lead Auditor | MasterMind | ✅ |
-| SOC Level 0 | TryHackMe | ✅ |
-| Security Engineer 101 | TryHackMe | ✅ |
-| SAL1 — Security Analyst Level 1 | TryHackMe | 🔄 |
-| PT1 — Penetration Tester Level 1 | TryHackMe | 🔄 |
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/eJPT.png" height="90" alt="eJPT" /><br>
+      <sub><b>eJPT</b><br>Junior Penetration Tester</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/ICCA.png" height="90" alt="ICCA" /><br>
+      <sub><b>ICCA</b><br>INE Certified Cloud Associate</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/SEC0.png" height="90" alt="SEC0" /><br>
+      <sub><b>THM SEC0</b><br>Security Fundamentals</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/SEC101.png" height="90" alt="SEC101" /><br>
+      <sub><b>THM SEC101</b><br>Security Essentials</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🔧 Skills
 ### ⌨️ Programming
@@ -61,7 +72,3 @@
 
 ### 🗃️ Others
 <img src="https://skillicons.dev/icons?i=docker,github,gitlab,neovim,notion,obsidian,powershell,wordpress"/>
-
-## 🎓 Certifications:
-
-![eJPT](eJPT.png)  ![ICCA](ICCA.png)  ![SEC0](SEC0.png)  ![SEC0](SEC101.png)
