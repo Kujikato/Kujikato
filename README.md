@@ -10,7 +10,7 @@
   <a href="https://github.com/Kujikato"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Kujikato-22D3EE?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/ernestogabrielandresnieto"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://tryhackme.com/p/Kujikato"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-Kujikato-10B981?style=flat-square&logo=tryhackme&logoColor=white"></a>
-  <a href="https://app.hackthebox.com/profile/1643736"><img alt="Hack The Box" src="https://img.shields.io/badge/HackTheBox-Profile-22D3EE?style=flat-square&logo=hackthebox&logoColor=white"></a>
+  <a href="[https://app.hackthebox.com/profile/1643736](https://app.hackthebox.com/users/1643736)"><img alt="Hack The Box" src="https://img.shields.io/badge/HackTheBox-Profile-22D3EE?style=flat-square&logo=hackthebox&logoColor=white"></a>
 </p>
 
 ## What I'm working on
