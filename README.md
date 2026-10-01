@@ -26,21 +26,25 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/eJPT.png" height="90" alt="eJPT" /><br>
       <sub><b>eJPT</b><br>Junior Penetration Tester</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/ICCA.png" height="90" alt="ICCA" /><br>
       <sub><b>ICCA</b><br>INE Certified Cloud Associate</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/SEC0.png" height="90" alt="SEC0" /><br>
       <sub><b>THM SEC0</b><br>Security Fundamentals</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/SEC101.png" height="90" alt="SEC101" /><br>
       <sub><b>THM SEC101</b><br>Security Essentials</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/GoogleCloudCybersecurity.png" height="90" alt="Google Cloud Cybersecurity Certificate" /><br>
+      <sub><b>Google Cloud</b><br>Cybersecurity Certificate</sub>
     </td>
   </tr>
 </table>
