@@ -50,9 +50,11 @@
 </table>
 
 ## 🔧 Skills
-### ⌨️ Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🤖 AI
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+### ☁️ Cloud
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
 
 ### 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -60,9 +62,6 @@
 ![MacOS](https://img.shields.io/badge/Mac_OS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### ☁️ Cloud
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
 
 ### 🧰 Hacking Tools
 ![Metasploit](https://img.shields.io/badge/Metasploit-4986B1?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -73,6 +72,11 @@
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-AA1111?style=for-the-badge&logo=jtr&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-7C3BE4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-333399?style=for-the-badge&logo=hydra&logoColor=white)
+
+### ⌨️ Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ### 🗃️ Others
 <img src="https://skillicons.dev/icons?i=docker,github,gitlab,neovim,notion,obsidian,powershell,wordpress"/>
