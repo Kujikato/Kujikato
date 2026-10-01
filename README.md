@@ -28,23 +28,23 @@
   <tr>
     <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/eJPT.png" height="90" alt="eJPT" /><br>
-      <sub><b>eJPT</b><br>Junior Penetration Tester</sub>
+      <sub><a href="https://certs.ine.com/5d270063-6337-423e-9809-24dacc788644"><b>eJPT</b><br>Junior Penetration Tester</a></sub>
     </td>
     <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/ICCA.png" height="90" alt="ICCA" /><br>
-      <sub><b>ICCA</b><br>INE Certified Cloud Associate</sub>
+      <sub><a href="https://certs.ine.com/1a10c024-e999-46ae-988c-b7aa1b39c76b"><b>ICCA</b><br>INE Certified Cloud Associate</a></sub>
     </td>
     <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/SEC0.png" height="90" alt="SEC0" /><br>
-      <sub><b>THM SEC0</b><br>Security Fundamentals</sub>
+      <sub><a href="https://assets.tryhackme.com/certification-certificate/69adc2a8bd6b6145d62afaaa.pdf"><b>THM SEC0</b><br>Security Fundamentals</a></sub>
     </td>
     <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/SEC101.png" height="90" alt="SEC101" /><br>
-      <sub><b>THM SEC101</b><br>Security Essentials</sub>
+      <sub><a href="https://assets.tryhackme.com/certification-certificate/69d134d017db38bb493550e2.pdf"><b>THM SEC101</b><br>Security Essentials</a></sub>
     </td>
     <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/Kujikato/Kujikato/main/GoogleCloudCybersecurity.png" height="90" alt="Google Cloud Cybersecurity Certificate" /><br>
-      <sub><b>Google Cloud</b><br>Cybersecurity Certificate</sub>
+      <sub><a href="https://www.credly.com/badges/ada89a95-ad3a-4092-93a1-27aa39f10ca1/public_url"><b>Google Cloud</b><br>Cybersecurity Certificate</a></sub>
     </td>
   </tr>
 </table>
